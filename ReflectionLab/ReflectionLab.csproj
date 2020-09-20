@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\LABXMLASerializer\LABXMLASerializer.csproj" />
     <ProjectReference Include="..\ReflectionLab.Models\ReflectionLab.Models.csproj" />
+    <ProjectReference Include="..\ReflectionLab.Validator\ReflectionLab.Validator.csproj" />
   </ItemGroup>
 
 </Project>
